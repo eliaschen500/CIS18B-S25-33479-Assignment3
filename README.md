@@ -1,7 +1,7 @@
 # CIS18B-S25-33479-Assignment3
 # Simple Bank System
 
-## 1. Description:
+1. Description:
 This is a simple Java-based banking system that allows users to create a bank account, deposit money, withdraw money (up to $500 per transaction), check their balance, and close their account.
 
 It demonstrates key OOP concepts including:
@@ -12,7 +12,7 @@ It demonstrates key OOP concepts including:
   
 ----
 
-## 2. Features:
+2. Features:
 a. Create a new bank account with an initial balance.
 b. Deposit money into the account.
 c. Withdraw money (with a $500 per transaction limit).
@@ -23,10 +23,10 @@ f. Logs all transactions using the Observer pattern.
 
 ---
 
-## 3. How to Run:
+3. How to Run:
 
-### a. Clone or Download the Project:
+a. Clone or Download the Project:
 Clone the repository using Git:
 
 ```bash
-git clone https://github.com/your-repository/simple-bank-system.git
+git clone https://github.com/eliaschen500/CIS18B-S25-33479-Assignment3
